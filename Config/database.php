@@ -7,7 +7,7 @@ class DATABASE_CONFIG
 		'host'			=> 'localhost',
 		'login'			=> 'root',
 		'password'		=> '',
-		'database'		=> 'brandon_motolucas',
+		'database'		=> '',
 		'prefix'		=> 'e_',
 		'encoding'		=> 'utf8'
 	);
