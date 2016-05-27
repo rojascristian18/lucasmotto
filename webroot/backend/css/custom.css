@@ -1,0 +1,122 @@
+@charset 'utf-8';
+
+.query-historial-versiones pre.query {
+	display: none;
+	font-size: 10px;
+}
+.lockscreen-container .lockscreen-box {
+    width: 240px;
+}
+.lockscreen-container .lockscreen-box .lsb-form {
+	width: 100%;
+}
+.lockscreen-container .alert {
+	margin-top: 15px;
+	padding: 4px;
+}
+.lockscreen-container .alert a {
+	display: none;
+}
+.fila-filtro {
+	margin-bottom: 20px;
+}
+.btn.btn-limpiar {
+	padding: 1px 5px;
+	line-height: normal;
+	margin-left: 5px;
+}
+
+.fecha{
+	display: inline-block;
+	width: auto;
+}
+
+.table-color .title{
+	color: #fff;
+	margin:0 0 10px 0 !important;
+	padding: 10px 5px;
+	background-color: #006699;
+}
+
+textarea{
+	resize: none;
+}
+
+.image-exist{
+	width: 10%;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	margin-bottom: 15px;
+}
+
+.image-exist img{
+	width: 100%;
+}
+
+.subtitle{
+	width: 100%;
+	color: #006699;
+	font-weight: 600;
+	display: block;
+}
+
+.bg-notfound{
+	padding: 10px;
+	color: #fff;
+	background-color: rgba(182,70,69, 0.7);
+}
+
+.box-checkbox{
+	display: block;
+	width: 100%;
+	margin: 0 auto;
+	background-color: #D2EEFB;
+	text-align: center;
+}
+
+.delete-image{
+	width: 100%;
+	display: block;
+	padding: 3px;
+	color: #000;
+	cursor: pointer;
+}
+
+.delete-image i{
+	font-size: 1.5em;
+	color: #B24443;
+	position: relative;
+	cursor: pointer;
+}
+
+.important{
+	color: red;
+	font-weight: 600; font-size: 1.1em;
+}
+
+
+.grafico-container{
+	padding: 10px;
+	border: 1px solid #dbdbdb;
+	border-radius: 3px;
+}
+
+.btn-graficos{
+	background-color: #4285F4;
+	border-color: #4285F4;
+	color: #fff;
+}
+
+
+.grafico-container #solicitudesClientes svg{
+
+}
+
+.widget-padding-lg{
+	padding: 25px 0 0 0;
+}
+
+.grafico-label{
+	font-size: 1.2em;
+}

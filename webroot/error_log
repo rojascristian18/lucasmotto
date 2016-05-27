@@ -1,0 +1,64 @@
+[05-Apr-2016 10:53:13 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/TransaccionesController.php on line 485
+[05-Apr-2016 11:01:48 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/TransaccionesController.php on line 483
+[05-Apr-2016 11:30:07 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/TransaccionesController.php on line 484
+[05-Apr-2016 11:40:48 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/TransaccionesController.php on line 484
+[05-Apr-2016 12:16:38 America/Santiago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 137
+[05-Apr-2016 12:16:41 America/Santiago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 137
+[05-Apr-2016 12:16:43 America/Santiago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 137
+[05-Apr-2016 12:37:07 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 140
+[05-Apr-2016 12:37:09 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 140
+[05-Apr-2016 12:37:11 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 140
+[05-Apr-2016 12:39:19 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 128
+[05-Apr-2016 12:39:22 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 128
+[05-Apr-2016 12:39:24 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 128
+[05-Apr-2016 12:39:45 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 130
+[05-Apr-2016 12:39:50 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 130
+[05-Apr-2016 12:39:52 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 130
+[05-Apr-2016 12:48:39 America/Santiago] PHP Fatal error:  Unsupported operand types in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Cake/2.7.7/lib/Cake/Controller/Component/PaginatorComponent.php on line 341
+[05-Apr-2016 13:05:23 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 136
+[05-Apr-2016 13:05:25 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 136
+[05-Apr-2016 13:05:27 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 136
+[05-Apr-2016 13:05:37 America/Santiago] PHP Fatal error:  Call to a member function find() on a non-object in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 128
+[05-Apr-2016 13:05:37 America/Santiago] PHP Fatal error:  Call to a member function find() on a non-object in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 128
+[05-Apr-2016 15:12:35 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 133
+[05-Apr-2016 15:12:42 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 133
+[05-Apr-2016 15:23:59 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 144
+[05-Apr-2016 15:24:01 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 144
+[05-Apr-2016 15:24:03 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 144
+[05-Apr-2016 15:24:15 America/Santiago] PHP Fatal error:  Call to undefined function getParentModule() in /home/brandon/public_html/qa/lucasmotto.cl/sitio/View/Elements/modulos.ctp on line 2
+[05-Apr-2016 15:24:15 America/Santiago] PHP Fatal error:  Call to undefined function getParentModule() in /home/brandon/public_html/qa/lucasmotto.cl/sitio/View/Elements/modulos.ctp on line 2
+[05-Apr-2016 15:24:36 America/Santiago] PHP Fatal error:  Call to undefined method View::getParentModule() in /home/brandon/public_html/qa/lucasmotto.cl/sitio/View/Elements/modulos.ctp on line 2
+[05-Apr-2016 15:24:36 America/Santiago] PHP Fatal error:  Call to undefined method View::getParentModule() in /home/brandon/public_html/qa/lucasmotto.cl/sitio/View/Elements/modulos.ctp on line 2
+[05-Apr-2016 15:25:39 America/Santiago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Config/bootstrap.php on line 190
+[05-Apr-2016 15:25:43 America/Santiago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Config/bootstrap.php on line 190
+[05-Apr-2016 15:25:51 America/Santiago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Config/bootstrap.php on line 190
+[05-Apr-2016 15:25:55 America/Santiago] PHP Fatal error:  Using $this when not in object context in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Config/bootstrap.php on line 191
+[05-Apr-2016 15:25:55 America/Santiago] PHP Fatal error:  Using $this when not in object context in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Config/bootstrap.php on line 191
+[05-Apr-2016 16:08:49 America/Santiago] PHP Fatal error:  Call to a member function getDataSource() on a non-object in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 91
+[05-Apr-2016 16:08:49 America/Santiago] PHP Fatal error:  Call to a member function getDataSource() on a non-object in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 91
+[05-Apr-2016 16:15:55 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 131
+[05-Apr-2016 16:15:59 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 131
+[05-Apr-2016 16:16:00 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 131
+[05-Apr-2016 16:16:07 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 131
+[05-Apr-2016 16:16:12 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 131
+[05-Apr-2016 16:16:13 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 131
+[05-Apr-2016 16:27:53 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 134
+[05-Apr-2016 16:28:01 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 134
+[05-Apr-2016 16:28:03 America/Santiago] PHP Parse error:  syntax error, unexpected '}' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 134
+[05-Apr-2016 16:28:36 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 129
+[05-Apr-2016 16:28:39 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 129
+[05-Apr-2016 16:28:41 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 129
+[05-Apr-2016 16:31:58 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 133
+[05-Apr-2016 16:32:01 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 133
+[05-Apr-2016 16:32:02 America/Santiago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 133
+[05-Apr-2016 16:33:37 America/Santiago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 130
+[05-Apr-2016 16:33:39 America/Santiago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 130
+[05-Apr-2016 16:33:41 America/Santiago] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 130
+[05-Apr-2016 17:46:28 America/Santiago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 150
+[05-Apr-2016 17:46:30 America/Santiago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 150
+[06-Apr-2016 10:48:49 America/Santiago] PHP Parse error:  syntax error, unexpected '/' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/View/Layouts/backend/default.ctp on line 51
+[06-Apr-2016 10:48:49 America/Santiago] PHP Parse error:  syntax error, unexpected '/' in /home/brandon/public_html/qa/lucasmotto.cl/sitio/View/Layouts/backend/default.ctp on line 51
+[06-Apr-2016 11:45:49 America/Santiago] PHP Fatal error:  Call to undefined function getSolicitudesMesActual() in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 96
+[06-Apr-2016 11:45:49 America/Santiago] PHP Fatal error:  Call to undefined function getSolicitudesMesActual() in /home/brandon/public_html/qa/lucasmotto.cl/sitio/Controller/AppController.php on line 96
+[06-Apr-2016 12:29:39 America/Santiago] PHP Parse error:  syntax error, unexpected '$imageHTML' (T_VARIABLE) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/View/Productos/admin_edit.ctp on line 180
+[06-Apr-2016 12:30:12 America/Santiago] PHP Parse error:  syntax error, unexpected '$imageHTML' (T_VARIABLE) in /home/brandon/public_html/qa/lucasmotto.cl/sitio/View/Productos/admin_edit.ctp on line 180

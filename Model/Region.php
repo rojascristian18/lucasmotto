@@ -1,0 +1,70 @@
+<?php
+App::uses('AppModel', 'Model');
+class Region extends AppModel
+{
+	/**
+	 * CONFIGURACION DB
+	 */
+	public $displayField	= 'nombre';
+
+	/**
+	 * BEHAVIORS
+	 */
+	var $actsAs			= array(
+		/**
+		 * IMAGE UPLOAD
+		 */
+		/*
+		'Image'		=> array(
+			'fields'	=> array(
+				'imagen'	=> array(
+					'versions'	=> array(
+						array(
+							'prefix'	=> 'mini',
+							'width'		=> 100,
+							'height'	=> 100,
+							'crop'		=> true
+						)
+					)
+				)
+			)
+		)
+		*/
+	);
+
+	/**
+	 * VALIDACIONES
+	 */
+
+	/**
+	 * ASOCIACIONES
+	 */
+	public $hasMany = array(
+		'Comuna' => array(
+			'className'				=> 'Comuna',
+			'foreignKey'			=> 'region_id',
+			'dependent'				=> false,
+			'conditions'			=> '',
+			'fields'				=> '',
+			'order'					=> '',
+			'limit'					=> '',
+			'offset'				=> '',
+			'exclusive'				=> '',
+			'finderQuery'			=> '',
+			'counterQuery'			=> ''
+		),
+		'Proveedor' => array(
+			'className'				=> 'Proveedor',
+			'foreignKey'			=> 'region_id',
+			'dependent'				=> false,
+			'conditions'			=> '',
+			'fields'				=> '',
+			'order'					=> '',
+			'limit'					=> '',
+			'offset'				=> '',
+			'exclusive'				=> '',
+			'finderQuery'			=> '',
+			'counterQuery'			=> ''
+		)
+	);
+}

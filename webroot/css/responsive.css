@@ -1,0 +1,270 @@
+/* Style for mobile device */
+
+@media ( max-width: 992px ){
+	
+	#header .search-box .search-input{
+		width: 100%;
+	}
+
+	#header .search-box .search-button{
+		margin-left: -15%;
+	}
+
+	#header .navbar-default .navbar-nav > li > a{
+		font-size: 0.9em;
+	}
+
+	#carousel-home .carousel-caption .caption-box h3{
+		font-size: 2em;
+	}
+
+	#carousel-home .carousel-caption .caption-box p{
+		font-size: 1em;
+	}
+
+	#carousel-home .carousel-caption .precio-normal{
+		font-size: 2em;
+		width: 190%;
+	}
+
+	#carousel-home .carousel-caption .precio-oferta{
+		font-size: 2em;
+		width: 190%;
+	}
+
+}
+
+@media ( min-width: 768px ){
+	
+	#header .navbar-collapse.collapse{
+		display: table !important;
+		width: 100%;
+	}
+}
+
+@media ( max-width: 768px ){
+	
+	/**
+	*	Header
+	*/
+	#header{
+		padding: 5px;
+	}
+
+	#header .logo{
+		margin-top: 20px;
+	}
+
+	#header .navbar-toggle{
+		border-color: #fff;
+	}
+
+	#header .navbar-toggle .icon-bar{
+		background-color: #fff;
+	}
+
+	#header #menu{
+		padding-top: 15px;
+	}
+
+	#header .navbar-default .navbar-nav{
+		display: block;
+		width: 100%;
+		margin: 0;
+	}
+
+	#header .navbar-nav > li{
+		display: block;
+		width: 100%;
+		padding: 5px 0;
+	}
+
+	#header .navbar-nav > li > a{
+		width: 100%;
+		font-size: 1.1em;
+		color: #fff;
+	}
+
+	#header .navbar-nav > li > a:hover{
+		color:  #253C6B;
+	}
+
+	#header .search-box{
+		height: 35px;
+	}
+
+	#header .search-box .search-input{
+		width: 100%;
+	}
+
+	#header .search-box .search-button{
+		margin-left: -9%;
+	}
+
+	/**
+	*	Slider
+	*/
+	#carousel-home .carousel-caption{
+	}
+
+	#carousel-home .carousel-caption .caption-box h3{
+		font-size: 1.3em;
+	}
+
+	#carousel-home .carousel-caption .caption-box p{
+		display: none;
+	}
+
+	#carousel-home .carousel-caption .precio-normal{
+		font-size: 1.3em;
+		padding: 5px;
+		width: 200%;
+	}
+
+	#carousel-home .carousel-caption .precio-oferta{
+		font-size: 1.3em;
+		padding: 5px;
+		width: 200%;
+	}
+
+	#carousel-home .carousel-caption .precio-oferta label {
+	    font-size: 0.8em;
+	    margin-right: 10px;
+	}
+
+	#carousel-home .carousel-indicators{
+		display: none;
+	}
+
+	#carousel-home .carousel-caption .precio-normal .fa-chevron-left{
+		margin-right: 10px;
+		font-size: 15px;
+	}
+
+	#carousel-home .carousel-caption .btn-solicitar {
+	    font-size: 0.7em;
+		padding: 5px 11px;
+		bottom: 10%;
+	}
+	
+	/**
+	*	Categoria sección
+	*/
+	#seccion-categoria .content .nav-tabs a{
+		padding: 5px;
+		font-size: 0.8em;
+	}
+	
+	/**
+	*	Comparar
+	*/
+
+	#comparar .comparar-small{
+		padding: 0;
+	}
+
+	#comparar .comparar-small .responsive-img , #comparar .comparar-small .item-bottom, #comparar .comparar-small .precio{
+		display: none !important;
+	}
+	
+	#comparar .comparar-small .item-container {
+	    display: block;
+	    width: 100%;
+	    margin: 5px auto 5px;
+	    background-color: #FDFDFD;
+	    border:none !important;
+	}
+
+	#comparar .comparar-small .item-name {
+	    font-size: 1em !important;
+	    padding: 5px 0 !important;
+	}
+
+	#comparar .name{
+		padding: 8px 0;
+		text-transform: uppercase;
+		color: #3A5DA7;
+	}
+
+
+	/**
+	*	Marcas sección
+	*/
+	#marcas .brand-container .unlist .gallery-brand{
+		width: 65%;
+	}
+
+	#marcas .pad{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	
+	/**
+	*	Footer
+	*/
+	#footer{
+		text-align: center;
+	}
+
+	#footer h4{
+		font-weight: 600;
+		margin-top: 15px;
+	}
+
+	#footer .logo{
+		margin: 15px auto;
+	}
+
+
+}
+
+@media ( max-width: 450px ){
+
+	#carousel-home .carousel-caption .caption-box h3{
+		font-size: 0.8em;
+	}
+
+	#carousel-home .carousel-caption .precio-normal{
+		font-size: 0.8em;
+	}
+
+	#carousel-home .carousel-caption .precio-oferta{
+		font-size: 0.8em;
+	}
+
+	#carousel-home .carousel-caption .precio-oferta label {
+	    font-size: 0.6em;
+	}
+
+	#carousel-home .carousel-caption .btn-solicitar {
+	    font-size: 0.6em;
+		padding: 3px 5px;
+		bottom: 5%;
+	}
+
+	#header .search-box .search-button{
+		margin-left: -12%;
+	}
+	
+
+	#comparar .panel-default > .panel-heading + .panel-collapse > .panel-body .border:nth-child(2n+1){
+		height: 25px;
+	}
+
+	#comparar .panel-default > .panel-heading + .panel-collapse > .panel-body label {
+	    padding: 5px;
+	    font-size: 0.7em;
+	    margin: 0;
+	}
+
+	#comparar .comparar-small .item-name {
+	    font-size: 0.8em !important;
+	    padding: 5px 0 !important;
+	}
+
+	#comparar .name{
+		padding: 10px 0;
+		font-size: 0.8em;
+	}
+
+}

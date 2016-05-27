@@ -1,0 +1,136 @@
+.panel-body{
+	width: 100%;
+	padding: 20px 15px;
+	font-family: 'Arial', sans-serif;
+}
+
+.panel-body h2{
+	color: #006699;
+	text-align: center;
+	margin: 30px 0;
+}
+
+.panel-body .table-color .title{
+	background-color: #006699;
+	color: #fff;
+	width: 100%;
+	font-size: 16px;
+	display: block;
+	padding: 5px;
+	margin: 0;
+}
+.panel-body .table-color table{
+	width: 100%;
+}
+
+.panel-body .table-color table > tr > td{
+	font-size: 12px;
+	padding: 3px 10px;
+	margin: 0 !important;
+}
+
+.panel-body .table-color table > tr > .subtitle{
+	background-color: #4B4B4B;
+	color: #fff;
+	padding: 3px 5px;
+}
+
+.panel-body hr{
+	width: 100%;
+	height: 1px;
+	background-color: #CCCCCC;
+	border:none;
+	box-shadow: none;
+}
+
+.solicitud{
+	width: 100%;
+	padding: 50px 40px;
+	position: relative;
+	float: left;
+	font-family: 'Arial', sans-serif;
+}
+
+.solicitud .text-center{
+	text-align: center;
+}
+
+.solicitud .col-12{
+	display: block;
+	width: 100%;
+	float: left;
+}
+
+.solicitud .logo{
+	width: 25%;
+	position: relative;
+}
+
+.solicitud .titulo{
+	text-transform: uppercase;
+	display: block;
+	font-size: 13px;
+	margin: 0 0 20px 0;
+}
+
+.solicitud .logo h2{
+	margin: 0px 0px;
+	line-height: 8px;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: 300;
+	color: #B3ABCC;
+}
+
+.solicitud .logo p{
+	font-size: 11px;
+	font-style: italic;
+	font-weight: 300;
+}
+
+.solicitud table tr > td {
+	font-size: 15px;
+	height: auto;
+}
+
+.solicitud .campo{
+	margin:0;
+	height: 30px;
+	font-weight: 800;
+}
+
+.solicitud .imagen{
+	position: absolute;
+	width: 30%;
+	top: 20%;
+	right: 0;
+}
+
+.solicitud .caja-cuotas{
+	text-align: center;
+	width: 35%;
+	height: 130px;
+	top: 35%;
+	right: 33%;
+	position: absolute;
+	display: block;
+}
+
+.solicitud .medium-text{
+	font-size: 18px;
+	font-weight: 300;
+	margin: 0;
+}
+
+.solicitud .valor-cuota{
+	font-size: 20px;
+	font-weight: 300;
+	margin: 0;
+}
+
+.solicitud .contenido p ,.solicitud .contenido ol{
+	font-size: 13px;
+}
+
+
+
